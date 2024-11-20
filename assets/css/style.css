@@ -14,6 +14,7 @@
 /* Global styles */
 
 body {
+    padding-top: 57.55px; /* height of the fixed navbar */
     font-family: var(--primary-font);
 }
 
@@ -38,8 +39,7 @@ h2 {
 }
 
 .section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    padding-top: 4rem;
 }
 
 /* Buttons */
