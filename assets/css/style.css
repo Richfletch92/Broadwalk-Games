@@ -145,11 +145,12 @@ h2 {
 .row {
     border: 2px solid black;
 }
-
-.col-12 {
-    border: 2px solid white;
-    background-color: lightgray;
-} */
+ */
+.student {
+    background-color: var(--highlight-color);
+    color: white;
+    padding: 0.3rem;
+}
 
 /* Media queries */
 
